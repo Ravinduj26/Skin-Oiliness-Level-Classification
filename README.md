@@ -71,7 +71,8 @@ predicted_label, treatment_options = predict_user_input_image(image_path)
 ## Model Performance
 The model achieves an **accuracy of 86%** on the test set. Below is the confusion matrix:
 
-![Confusion Matrix](confusion_matrix.png)
+![image](https://github.com/user-attachments/assets/a41c5bda-fc79-4f2a-812b-f0a01e16d106)
+
 
 ## License
 This project is licensed under the MIT License. Feel free to use and modify it as needed.
